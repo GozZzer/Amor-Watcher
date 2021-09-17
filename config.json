@@ -1,0 +1,11 @@
+{
+    "prefix": "L.",
+    "invite": "https://discord.com/api/oauth2/authorize?client_id=861974078431821885&permissions=8&scope=bot%20applications.commands",
+    "token": "ODg4MTM1OTc3NTkwMjE0NjY3.YUOTFQ.IQGiSrdCUMxU5OEJmApsFtZ3a54",
+    "database": {
+        "host": "75.119.135.195",
+        "name": "love",
+        "user": "gozzzer",
+        "passw": "47653210"
+    }
+}
