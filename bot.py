@@ -45,7 +45,7 @@ class AmorWatcher(hikari.GatewayBot):
             status=presences.Status.IDLE,
             idle_since=datetime.datetime.utcnow()
         )
-        
+
     async def on_started(self, event):
         print("Bot Started!")
 
